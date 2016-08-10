@@ -1,28 +1,33 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-10T18:27:53.600Z'
-dateModified: '2016-08-10T18:26:45.159Z'
-title: 2010 - The Original Listing Photos
-author: []
+description: >-
+  The full view of the house and front yard. The landscaping, although fairly
+  complex as you will see in later photos, appears reasonably maintained. There
+  is a tree and flagpole that were not there when we purchased.
+datePublished: '2016-08-10T20:19:52.331Z'
+dateModified: '2016-08-10T20:19:24.765Z'
+title: Original Listing Photos (2010)
+author:
+  - name: ''
+    url: ''
 via: {}
 sourcePath: _posts/2016-08-09-2010-the-original-listing-photos.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 url: 2010-the-original-listing-photos/index.html
 _type: Article
 
 ---
-# 2010 - The Original Listing Photos
+## Original Listing Photos (2010)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2308ca02-bac7-4c1b-ba80-454defd66953.jpg)
 
 The full view of the house and front yard. The landscaping, although fairly complex as you will see in later photos, appears reasonably maintained. There is a tree and flagpole that were not there when we purchased.
