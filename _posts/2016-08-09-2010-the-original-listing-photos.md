@@ -1,21 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-09T23:13:17.991Z'
-dateModified: '2016-08-09T23:12:58.256Z'
+datePublished: '2016-08-10T18:04:40.665Z'
+dateModified: '2016-08-10T18:03:52.879Z'
 title: 2010 - The Original Listing Photos
 author: []
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: _posts/2016-08-09-2010-the-original-listing-photos.md
-url: 2010-the-original-listing-photos/index.html
-_type: Article
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+_type: Blurb
 
 ---
 # 2010 - The Original Listing Photos
