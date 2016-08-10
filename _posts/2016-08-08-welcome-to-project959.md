@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: >-
@@ -16,8 +17,8 @@ description: >-
   Scott proud, or an interior design that would inspire even Joanna Gaines or
   Hilary Farr. Project959 is our journey from house to home, possibility to
   reality, a roof over our heads to tranquility and serenity. Or so we hope...
-datePublished: '2016-08-10T18:25:22.099Z'
-dateModified: '2016-08-10T18:25:10.401Z'
+datePublished: '2016-08-10T18:27:25.752Z'
+dateModified: '2016-08-10T18:27:04.442Z'
 title: Welcome to Project959.
 author: []
 via: {}
@@ -25,8 +26,7 @@ sourcePath: _posts/2016-08-08-welcome-to-project959.md
 authors: []
 publisher: {}
 starred: false
-url: welcome-to-project959/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Welcome to Project959\.
