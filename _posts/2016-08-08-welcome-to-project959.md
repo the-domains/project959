@@ -17,8 +17,8 @@ description: >-
   Scott proud, or an interior design that would inspire even Joanna Gaines or
   Hilary Farr. Project959 is our journey from house to home, possibility to
   reality, a roof over our heads to tranquility and serenity. Or so we hope...
-datePublished: '2016-08-10T18:38:53.171Z'
-dateModified: '2016-08-10T18:38:35.883Z'
+datePublished: '2016-08-10T18:42:26.646Z'
+dateModified: '2016-08-10T18:41:52.026Z'
 title: Welcome to Project959.
 author: []
 via: {}
